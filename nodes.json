@@ -1,0 +1,8 @@
+[
+  { "operation": "add", "params": [1, 2] },
+  { "operation": "subtract", "params": [10, 5] },
+  { "operation": "multiply", "params": [3, 3] },
+  { "operation": "divide", "params": [8, 2] },
+  { "operation": "sqrt", "params": [16] },
+  { "operation": "power", "params": [3, 2] }
+]
