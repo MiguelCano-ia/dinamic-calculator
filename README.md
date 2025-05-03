@@ -8,7 +8,7 @@ Proyecto que consiste en procesar operaciones matemáticas definidas mediante ob
 
 ```bash
   git clone https://github.com/MiguelCano-ia/dinamic-calculator.git
-  cd mi-calculadora-ts
+  cd dinamic-calculator
 ```
 
 2. Instala las dependencias:
