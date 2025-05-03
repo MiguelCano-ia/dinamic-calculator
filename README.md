@@ -7,7 +7,7 @@ Proyecto que consiste en procesar operaciones matemáticas definidas mediante ob
 1. Clona el repositorio:
 
 ```bash
-  git clone https://github.com/tu-usuario/mi-calculadora-ts.git
+  git clone https://github.com/MiguelCano-ia/dinamic-calculator.git
   cd mi-calculadora-ts
 ```
 
